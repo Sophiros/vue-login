@@ -12,6 +12,7 @@
           {{ message }}
         </div>
       </div>
+<!--      哇哇哇哇-->
       <div class="failed-footer">
         <button class="failed-footer-button-clear" @click="clear">清空</button>
         <button class="failed-footer-button-confirm" @click="confirm">确认</button>
