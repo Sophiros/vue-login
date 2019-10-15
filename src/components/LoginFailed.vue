@@ -38,9 +38,11 @@
       }
     },
     methods: {
+      // 清空
       clear () {
         this.$emit('clear')
       },
+      // 确认
       confirm () {
         this.$emit('confirm')
       }
